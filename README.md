@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @7mid056
-- 👀 I’m interested in Cybersecurity, ML, mysql, python.
+- 👀 I’m interested in Artifical inteligence, ML, mysql, python.
 
 
 <!---
